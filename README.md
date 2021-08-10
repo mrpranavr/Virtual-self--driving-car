@@ -16,7 +16,8 @@ Create a virtual self driving car using reinforcement learning with pytorch and 
 ## What the output shows
 In the beginning the car can be seen moving rapidly here and there. What is happening is that it is learning how to move from the start to the destination using reinforcement Q-learning. After a few seconds the car moves fluently from one end to the other and back again.
 
-**NOTE:** You can save the model by pressing the **save** button at the bottom left of the window. This also gives a learning curve graph that shows the reward or learning rate for the number of times it tried.
+**NOTE:** You can save the model by pressing the `save` button at the bottom left of the window. This also gives a learning curve graph that shows the reward or learning rate for the number of times it tried.
+Once a model is saved a new file is created named last_brain.pth. This is your trained model. You can load it the next time you launch the window by pressing the `load` button on the bottom left of the window
 
 https://user-images.githubusercontent.com/88646272/128818670-3216569c-90ce-4676-a101-cbce23544b41.mp4
 
