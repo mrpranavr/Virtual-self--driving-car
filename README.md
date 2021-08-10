@@ -3,8 +3,8 @@ Create a virtual self driving car using reinforcement learning with pytorch and 
 
 ## Requirements 
 - Python 3.6 
-- pytorch ( conda install pytorch==0.3.1 -c pytorch )
-- kivy ( conda install -c conda-forge/label/cf201901 kivy )
+- pytorch (`conda install -c peterjc123 pytorch-cpu` or if it doesn't work try- `conda install pytorch==0.3.1 -c pytorch`)
+- kivy (`conda install -c conda-forge/label/cf201901 kivy`)
 
 ## Initial setup
 - Create a virtual environment with python 3.6 ( You can use Anaconda for ease of use )
